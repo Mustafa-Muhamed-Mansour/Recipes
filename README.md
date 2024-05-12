@@ -31,22 +31,27 @@ Here when the user clicks on the password show an original password, by using de
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/39851fdb-294d-4470-84a9-3192eb791f18" width = "200" height = "400">
 
 Here when the user exits from the app and restarts again show the encrypted password.
+
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/35000a01-e67e-4786-9a5f-fbc0f0fb9c51" width = "200" height = "400"> 
 
 
 ## UI by using a Jetpack Compose
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/d17770f1-9362-477f-b7e7-28ffe5ebe66a" width = "200" height = "400">  
 
-Here I mean the original password used by using XML. 
+Here I mean the original password used by using XML.
+
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/cd2d62f3-9565-4a5c-99fb-6446db51bf11" width = "200" height = "400">
 
 Here the user added his data, and password equal to value but did not understand because done saved by using encrypt.
+
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/77a4a4f3-960f-4ae8-92f7-92a62b9aad5f" width = "200" height = "400">
 
 Here when the user clicks on the password show an original password below in the red box, by using decrypt.
+
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/7b987ace-781a-46fb-9a85-ea3679b47b87" width = "200" height = "400">
 
 Here when the user exits from the app and restarts again show the encrypted password.
+
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/bcb1e465-b791-440a-ad57-fa3a69c27660" width = "200" height = "400">
 
 
