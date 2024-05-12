@@ -1,0 +1,100 @@
+plugins {
+    alias(libs.plugins.androidApplication)
+    alias(libs.plugins.jetbrainsKotlinAndroid)
+    id("org.jetbrains.kotlin.kapt")
+    id("com.google.gms.google-services")
+    id ("kotlin-kapt")
+}
+
+android {
+    namespace 'com.recipes'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.recipes"
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+    dataBinding {
+        enable = true
+    }
+    buildFeatures {
+        compose true
+    }
+    composeOptions {
+        kotlinCompilerExtensionVersion '1.5.1'
+    }
+    packaging {
+        resources {
+            excludes += '/META-INF/{AL2.0,LGPL2.1}'
+        }
+    }
+}
+
+dependencies {
+
+    implementation libs.androidx.core.ktx
+    implementation libs.androidx.appcompat
+    implementation libs.material
+    implementation libs.androidx.activity
+    implementation libs.androidx.constraintlayout
+    implementation libs.materialIcon
+    implementation libs.lifecycleRunTime
+    implementation libs.lifecycleLiveData
+    implementation libs.lifecycleViewModel
+    implementation libs.lifecycleViewModelCompose
+    implementation libs.ui
+    implementation libs.uiGraphic
+    implementation libs.uiPreview
+    implementation libs.materialThree
+    implementation libs.navigationFragment
+    implementation libs.navigationUI
+    implementation libs.koinCore
+    implementation libs.koinTest
+    implementation libs.koinAndroid
+    implementation libs.koinCompose
+    implementation libs.retrofit
+    implementation libs.gson
+    implementation libs.retrofitConverter
+    implementation libs.httpClient
+    implementation libs.sdp
+    implementation libs.ssp
+    implementation libs.coroutineAndroid
+    implementation libs.coroutineCore
+    implementation libs.preferenceDataStore
+    implementation libs.protoTypeDataStore
+    implementation libs.voyagerNavigator
+    implementation libs.voyagerScreenModel
+    implementation libs.voyagerKoin
+    implementation libs.coil
+    implementation platform(libs.composePlatform)
+    implementation libs.androidx.activity.compose
+    implementation libs.firebase.auth
+    implementation libs.firebase.database
+    implementation libs.google.services
+    testImplementation libs.junit
+    androidTestImplementation libs.androidx.junit
+    androidTestImplementation libs.androidx.espresso.core
+    androidTestImplementation platform(libs.composePlatform)
+    androidTestImplementation libs.androidx.ui.test.junit4
+    debugImplementation libs.androidx.ui.tooling
+    debugImplementation libs.androidx.ui.test.manifest
+}
