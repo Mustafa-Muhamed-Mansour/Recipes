@@ -34,7 +34,8 @@ Here when the user exits from the app and restarts again show the encrypted pass
 ## UI by using a Jetpack Compose
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/d17770f1-9362-477f-b7e7-28ffe5ebe66a" width = "200" height = "400">  
 
-Here I mean the original password used by using XML. <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/cd2d62f3-9565-4a5c-99fb-6446db51bf11" width = "200" height = "400">
+Here I mean the original password used by using XML. 
+<img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/cd2d62f3-9565-4a5c-99fb-6446db51bf11" width = "200" height = "400">
 
 Here the user added his data, and password equal to value but did not understand because done saved by using encrypt.
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/77a4a4f3-960f-4ae8-92f7-92a62b9aad5f" width = "200" height = "400">
