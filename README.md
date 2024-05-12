@@ -15,14 +15,19 @@
 
 ## UI by using a XML
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/6cf52b63-334a-4a37-97fe-0ad0ce4222d4" width = "200" height = "400">  <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/526a7345-5f0f-4560-bdcf-71f5b3da6daf" width = "200" height = "400">
-   Here I mean a password, and email equals to null because the user does not add his own data.
+
+Here I mean a password, and email equals to null because the user does not add his own data.
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/d7baa21a-6ce4-408c-84bd-6624431046db" width = "200" height = "400">
+
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/72985c39-5553-437e-b76c-72fd204e25f5" width = "200" height = "400">
-   Here the user added his data, and password equal to value but did not understand because done saved by using encrypt.
+
+Here the user added his data, and password equal to value but did not understand because done saved by using encrypt.
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/760ba9e7-c330-43b1-b467-4e72ec01d478" width = "200" height = "400">
-   Here when the user clicks on the password show an original password, by using decrypt.
+
+Here when the user clicks on the password show an original password, by using decrypt.
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/39851fdb-294d-4470-84a9-3192eb791f18" width = "200" height = "400">
-   Here when the user exits from the app and restarts again show the encrypted password.
+
+Here when the user exits from the app and restarts again show the encrypted password.
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/35000a01-e67e-4786-9a5f-fbc0f0fb9c51" width = "200" height = "400"> 
 
 ## UI by using a Jetpack Compose
