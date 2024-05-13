@@ -60,4 +60,4 @@ When the user exits from the app and restarts again show the encrypted password.
 
 
 
-## Linkdedin (https://www.linkedin.com/posts/mustafa-muhamed_developers-im-here-i-finished-this-activity-7195770404626436098-WR3C?utm_source=share&utm_medium=member_desktop) 
+[Linkdedin](https://www.linkedin.com/posts/mustafa-muhamed_developers-im-here-i-finished-this-activity-7195770404626436098-WR3C?utm_source=share&utm_medium=member_desktop) 
