@@ -13,6 +13,9 @@
 - [Firebase](https://firebase.google.com/) - To allow to storage of data.
 
 
+[Linkdedin](https://www.linkedin.com/posts/mustafa-muhamed_developers-im-here-i-finished-this-activity-7195770404626436098-WR3C?utm_source=share&utm_medium=member_desktop) 
+
+
 ## UI by using a XML
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/6cf52b63-334a-4a37-97fe-0ad0ce4222d4" width = "200" height = "400">  <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/526a7345-5f0f-4560-bdcf-71f5b3da6daf" width = "200" height = "400">
 
@@ -57,7 +60,3 @@ When the user exits from the app and restarts again show the encrypted password.
 
 ## Dividing packages by using a Clean Architecture
 <img src = "https://github.com/Mustafa-Muhamed-Mansour/Recipes/assets/53982895/c5ddc5fd-4b8c-46eb-a5f2-da811b1b40bd" width = "200" height = "400">
-
-
-
-[Linkdedin](https://www.linkedin.com/posts/mustafa-muhamed_developers-im-here-i-finished-this-activity-7195770404626436098-WR3C?utm_source=share&utm_medium=member_desktop) 
